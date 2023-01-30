@@ -1,0 +1,18 @@
+S.O.L.I.D
+the five basic principles of object-oriented programming and design by Uncle Bob
+— which states that a class should depend on abstraction and not upon concretions (in simple terms, hard-coded)
+
+The 5 design principles (S.O.L.I.D ):
+-Single Responsibility Principle
+-Open/Closed Principle
+-Liskov Substitution Principle
+-Interface Segregation Principle
+-Dependency Inversion Principle/ Inversion of Control
+
+Each of these principles can stand on its own and has the goal to improve the robustness and maintainability of object-oriented
+applications and software components. But they also add to each other so that applying all of them makes the implementation of
+each principle easier and more effective.
+
+
+
+According to the principles, a class should concentrate on fulfilling its responsibilities and not on creating objects that it requires to fulfill those responsibilities. And that’s where dependency injection comes into play: it provides the class with the required objects.
